@@ -5,6 +5,9 @@
 
 # Appearance
 
+# custom_css:
+#     - "/css/wowchemy1.css"
+
 appearance:
   theme_day: minimal
   theme_night:
@@ -19,7 +22,7 @@ marketing:
     local_business_type: ""
     org_name: "TC&S Lab"
     description: "武汉大学国家网络安全学院可信计算与安全实验室"
-    twitter: ""
+    # twitter: ""
   analytics:
     google_analytics: ""
     baidu_tongji: ""
@@ -43,21 +46,21 @@ header:
 
 # Site footer
 
-footer:
-  copyright:
-    notice: "© {year} Me. This work is licensed under {license}"
-    license:
-      enable: true
-      allow_derivatives: false
-      share_alike: true
-      allow_commercial: false
+# footer:
+#   copyright:
+#     notice: "© {year} Me. This work is licensed under {license}"
+#     license:
+#       enable: true
+#       allow_derivatives: false
+#       share_alike: false
+#       allow_commercial: false
 
 # Localization
 
-locale:
-  date_format: "Jan 2, 2006"
-  time_format: "3:04 PM"
-  address_format: zh
+# locale:
+#   date_format: "Jan 2, 2006"
+#   time_format: "3:04 PM"
+#   address_format: zh
 
 # Site features
 
@@ -113,6 +116,6 @@ extensions:
 
 # Citation style
 
-publications:
-  date_format: January 2006
-  citation_style: apa
+# publications:
+#   date_format: January 2006
+#   citation_style: apa

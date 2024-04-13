@@ -7,17 +7,14 @@ type: landing
 sections:
   - block: people
     content:
-      title: Meet the Team
+      title: Our Team
       # Choose which groups/teams of users to display.
       #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
       user_groups:
-          - Principal Investigators
-          - Researchers
-          - Grad Students
-          - Administration
-          - Visitors
-          - Alumni
-      sort_by: Params.last_name
+          - Faculty
+          - Ph.D. Students
+          - Master Students
+      sort_by: Params.ID
       sort_ascending: true
     design:
       show_interests: false

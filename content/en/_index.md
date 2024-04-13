@@ -8,25 +8,23 @@ sections:
   - block: hero
     content:
       title: |
-        <span style="font-family: Arial; font-size: 38px;">Trusted Computing & Security Lab</span>
+        <span style="font-family: Arial; font-size: 38px;"><span style="color: rgb(175, 22, 22); font-size: 45px;">T</span>rusted <span style="color: rgb(175, 22, 22); font-size: 45px;">C</span>omputing & <span style="color: rgb(175, 22, 22); font-size: 45px;">S</span>ecurity Lab</span>
       image: 
         filename: a402_1.jpg
       text: |
 
         <p style="float: left; line-height: 0.65;">
         <span style=" font-size: 16px;">
-        In 
-        <span style="font-weight: bold; font-size: 1.2em;">
-        system security
+        <span style="font-weight: bold; font-size: 1.3em;">
+        System Security<br>
         </span>
-        , we are committed to the research of trusted computing represented by TPM, aiming to build secure and reliable trusted systems. We aim to provide secure foundations for cloud security, big data, blockchain, SDN, and other technologies. In recent years, building on the foundation of trusted computing research, we have expanded our scope to confidential computing and are dedicated to research in the design and application of trusted execution environment architectures. 
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  We are committed to the research of trusted computing represented by <span style="color: rgb(175, 22, 22); font-size: 16px;"><strong>TPM</strong></span> aiming to build secure and reliable trusted systems. We aim to provide secure foundations for <u>cloud security, big data, blockchain, SDN</u>, and other technologies. In recent years, building on the foundation of trusted computing research, we have expanded our scope to <span style="color: rgb(175, 22, 22); font-size: 16px;"><strong>Confidential Computing</strong></span> and are dedicated to research in the design and application of trusted execution environment architectures. 
         <br>
         <br>
-        In 
-        <span style="font-weight: bold; font-size: 1.2em;">
-        AI security
+        <span style="font-weight: bold; font-size: 1.3em;">
+        AI Security<br>
         </span>
-        , we are focused on exploring and developing efficient solutions to address critical issues surrounding privacy. We particularly emphasize the formulation of flexible and robust attack/defense strategies throughout the entire lifecycle of deep learning models, including data collection, model training/ inference, and deployment. Additionally, we actively integrate AI technologies with traditional security domains such as confidential computing, binary analysis, and vulnerability discovery, aiming to contribute to a wider range of security.
+        &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  We are focused on exploring and developing efficient solutions to address critical issues surrounding <span style="color: rgb(175, 22, 22); font-size: 16px;"><strong>Privacy</strong></span>. We particularly emphasize the formulation of flexible and robust <u>attack/defense strategies</u> throughout the entire lifecycle of deep learning models, including data collection, model training/inference, and deployment. Additionally, we actively integrate AI technologies with <span style="color: rgb(175, 22, 22); font-size: 16px;"><strong>Traditional Security Domains</strong></span> such as confidential computing, binary analysis, and vulnerability discovery, aiming to contribute to a wider range of security.
         </span>
         </p>
 
@@ -35,14 +33,14 @@ sections:
     content:
       title: Latest News
       subtitle:
-      text:
-      count: 5
-      filters:
-        author: ''
-        category: ''
-        exclude_featured: false
-        publication_type: ''
-        tag: ''
+      text: 
+      count: 20
+      #filters:
+      #  author: ''
+      #  category: ''
+      #  exclude_featured: false
+      #  publication_type: ''
+      #  tag: ''
       offset: 0
       order: desc
       page_type: post
