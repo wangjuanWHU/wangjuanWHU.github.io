@@ -1,6 +1,7 @@
 ---
 title: '2024.03.03:  One paper has been accepted by FGCS 🎉🎉.'
 date: 2024-03-03
+share: false
 
 ---
 <img src="./FGCS.png" alt="Image Description" style="width: 500px; height: auto;">

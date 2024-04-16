@@ -1,6 +1,7 @@
 ---
 title: '2024.03.01:  One paper has been accepted by CVPR 2024 🎉🎉.'
 date: 2024-03-01
+share: false
 # type: landing
 # image:
 #   focal_point: 'top'
