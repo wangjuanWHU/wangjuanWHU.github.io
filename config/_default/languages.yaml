@@ -5,9 +5,9 @@ en:
   params:
     description: Trusted Computing and Security Laboratory, National Cyber Security College, Wuhan University
 
-zh:
-  languageCode: zh
-  contentDir: content/zh
-  title: 可信计算与安全实验室 TC&S Lab
-  params:
-    description: 武汉大学国家网络安全学院可信计算与安全实验室
+# zh:
+#   languageCode: zh
+#   contentDir: content/zh
+#   title: 可信计算与安全实验室 TC&S Lab
+#   params:
+#     description: 武汉大学国家网络安全学院可信计算与安全实验室

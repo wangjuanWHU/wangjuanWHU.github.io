@@ -14,4 +14,5 @@ publication_types:
 - paper-conference
 publication: '*Cloud Computing: 4th International Conference, CloudComp 2013, Wuhan,
   China, October 17-19, 2013, Revised Selected Papers 4*'
+share: false
 ---

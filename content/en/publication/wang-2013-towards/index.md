@@ -13,4 +13,5 @@ publication_types:
 - paper-conference
 publication: '*Cyberspace Safety and Security: 5th International Symposium, CSS 2013,
   Zhangjiajie, China, November 13-15, 2013, Proceedings 5*'
+share: false
 ---

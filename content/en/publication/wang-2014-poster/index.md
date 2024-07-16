@@ -14,4 +14,5 @@ publication_types:
 - paper-conference
 publication: '*Proceedings of the 2014 ACM SIGSAC Conference on Computer and Communications
   Security*'
+share: false
 ---
